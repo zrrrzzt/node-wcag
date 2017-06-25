@@ -43,7 +43,7 @@
     "coveralls": "jscoverage index.js && WCAG_COVERAGE=1 nodeunit --reporter=lcov test | coveralls"
   },
   "dependencies": {
-    "async": "^2.1.2",
+    "async": "^2.5.0",
     "capitalize": "^1.0.0",
     "html-entities": "^1.1.3",
     "http-https": "^1.0.0",
