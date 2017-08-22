@@ -55,7 +55,7 @@
     "update-notifier": "^2.0.0",
     "valid-url": "^1.0.9",
     "verbalize": "^0.2.0",
-    "xml2js": "^0.4.12"
+    "xml2js": "^0.4.19"
   },
   "devDependencies": {
     "coveralls": "^2.11.4",
