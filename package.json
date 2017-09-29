@@ -58,7 +58,7 @@
     "xml2js": "^0.4.12"
   },
   "devDependencies": {
-    "coveralls": "^2.11.4",
+    "coveralls": "^3.0.0",
     "eslint": "^4.1.0",
     "jscoverage": "^0.6.0",
     "nodeunit": "^0.11.0",
